@@ -3,8 +3,6 @@
 Welcome to the useful-repos wiki!
 
 BGP:
-
-Useful sites:
 https://bgpkit.com/tools/monocle/
 https://radar.cloudflare.com/routing
 https://radar.qrator.net/
